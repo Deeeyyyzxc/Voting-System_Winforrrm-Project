@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTYKt95P4rDRp7O+/I0i53FERT1tJz8O/typQrC0aUH1d6HkX55GLebfFwVeXGHwzFqs+yy1yDZmAxuC9OyWFg==",
+  "success": true,
+  "projectFilePath": "D:\\drey\\3rd year\\Voting System project\\LoginFormApp\\LoginFormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin-PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
